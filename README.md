@@ -120,7 +120,7 @@ December 2023 recorded the highest monthly sales at ₹1,38,020.10.
 
 ## Dashboard Preview
 
-![Blinkit Business Intelligence Dashboard](05_images/blinkit_dashboard.png)
+![Blinkit Business Intelligence Dashboard](./05_images/blinkit_dashboard.png)
 
 ## Project Structure
 
